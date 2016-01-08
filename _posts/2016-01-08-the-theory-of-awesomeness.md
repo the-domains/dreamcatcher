@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Kick-starting Dreamcatcher
-datePublished: '2016-01-08T03:16:01.737Z'
-dateModified: '2016-01-08T03:15:35.378Z'
+datePublished: '2016-01-08T03:21:52.818Z'
+dateModified: '2016-01-08T03:18:03.467Z'
 title: The Theory of Awesomeness
 author: []
+sourcePath: _posts/2016-01-08-the-theory-of-awesomeness.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-08-the-theory-of-awesomeness.md
-published: true
 url: the-theory-of-awesomeness/index.html
 _type: Blurb
 
